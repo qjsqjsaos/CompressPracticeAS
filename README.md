@@ -34,7 +34,7 @@ complete Actionbar 2
 </br></br></br>
 
 
-**액션바 홈버튼 표시하기 및 검색창 만들기**
+**상단 탭 만들기**
 
 Top tap
 
