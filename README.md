@@ -8,3 +8,9 @@ Merge remote-tracking branch 'origin/master'
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103496756-ae2f9100-4e82-11eb-8600-9f7d8297cd91.gif)
+
+Merge remote-tracking branch 'origin/master'
+- getSupportActionBar() 메서드를 사용하였습니다.
+- setLogo파리미터로 검은 안드로이드 아이콘을 넣었습니다.
+- setDisplayOptions() 메서드의 파라미터로는 DISPLAY_USE_LOGO와 DISPLAY_SHOW_TITLE을 사용하였습니다.
+
