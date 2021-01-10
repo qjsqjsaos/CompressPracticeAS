@@ -10,6 +10,9 @@ complete Actionbar
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103496756-ae2f9100-4e82-11eb-8600-9f7d8297cd91.gif)
 
 
+</br></br></br>
+
+
 **액션바 홈버튼 표시하기 및 검색창 만들기**
 
 complete Actionbar 2
@@ -26,3 +29,18 @@ complete Actionbar 2
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103501659-36696280-4e92-11eb-9b09-ff43719082e6.gif)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103502948-3703f800-4e96-11eb-9b2c-5173637cb0e8.gif)
+
+
+</br></br></br>
+
+
+**상단 탭 만들기**
+
+Top tap
+
+- CoodinatorLayout, AppBarLayout, Toolbar, TabLayout, FrameLayout을 이용하였습니다.
+- AppBarLayout안에 툴바와 탭레이아웃을 설정하고, 같이 포함된 FrameLayout에는 프래그먼트를 이용해 색깔별로 다르게
+- 3개의 액티비티를 만들어서 각각 인플레이션을 통해 탭을 누를 때마다 각각 다른 화면을 나오게 만들어 보았습니다.
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103520407-75aba980-4eba-11eb-8253-6f74b02e8d47.gif)
