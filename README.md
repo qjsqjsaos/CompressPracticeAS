@@ -44,3 +44,17 @@ Top tap
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/103520407-75aba980-4eba-11eb-8253-6f74b02e8d47.gif)
+
+</br></br></br>
+
+
+**하단 탭 만들기**
+
+Bottom tap
+
+- ConstantLayout, FrameLayout, BottomNavigationView을 이용하였습니다.
+- 각 버튼을 누를 때마다 색이 다른 액티비티로 전환하여, 위에 Top tap보다 편하게 아래에다가 배치해 보았습니다.
+- Top tap과 마찬가지로 Fragment를 이용하여 case문을 통해 전환을 시켰습니다.
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/104113389-a6696400-533c-11eb-9630-5ff647f69423.gif)
