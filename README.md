@@ -73,3 +73,17 @@ ViewPager2
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/104124098-28d04300-5392-11eb-8bf2-efa291c38201.gif)
+
+
+</br></br></br>
+
+
+**고객 정보 입력 화면의 구성**
+
+Do it Mission (DatePickerDialog & SimpleDateFormat used)
+
+- DatePickerDialog로 달력을 만들고, 현재 시간을 표시하게 만들었으며,
+- SimpleDateFormat으로 달력을 초기화하고 새로 입력이 가능하게 만들었습니다.
+- 프래그먼트를 사용하여 만드었습니다.
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74702665/104145036-e7c74580-5408-11eb-9591-c2b794f18a45.gif)
