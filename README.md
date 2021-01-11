@@ -58,3 +58,18 @@ Bottom tap
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/104113389-a6696400-533c-11eb-9630-5ff647f69423.gif)
+
+
+</br></br></br>
+
+
+**뷰페이지 만들기**
+
+ViewPager2
+
+- ViewPager를 이제 사용하지 못하고, ViewPager2만 사용이 가능하다고 들어,
+- 책에 내용을 그대로 이해하지 못하고, 구글링을 통해 어렴풋이 구현해봤지만,
+- 약간에 미숙함이 담겨있습니다.
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74702665/104124098-28d04300-5392-11eb-8bf2-efa291c38201.gif)
